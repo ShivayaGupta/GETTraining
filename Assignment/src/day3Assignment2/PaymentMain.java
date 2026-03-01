@@ -21,7 +21,7 @@ public class PaymentMain {
 			amount= sc.nextInt();
 			
 			System.out.println("Enter your mode of payment from menu: ");
-			ch = sc.nextInt();
+			i = sc.nextInt();
 			
 			Payment p;
 			switch(i) {
