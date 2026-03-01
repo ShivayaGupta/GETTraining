@@ -5,19 +5,19 @@ public class UniversityExamMain {
 		Student s1 = new Student("1", "Shivaya", 91);
 		Student s2= new Student("2", "khushboo", 79);
 		
-		ExamProcess lab = new LabExam("BCS251");
-		ExamProcess midTerm = new MidTermExam("BAC201");
-		ExamProcess finalExam = new FinalExam("BAS203");
+		ExamProcess lab = new LabExam("ABC234");
+		ExamProcess midTerm = new MidTermExam("ABC34");
+		ExamProcess finalExam = new FinalExam("XYZ456");
 		
-		System.out.println("---Mid-Term Exams---");
+		System.out.println("-------Mid-Term Exams-------");
 		midTerm.ExamProcessSteps(s1);
 		midTerm.ExamProcessSteps(s2);
 		
-		System.out.println( "---Lab Exam---");
+		System.out.println( "-------Lab Exam-------");
 		lab.ExamProcessSteps(s1);
 		lab.ExamProcessSteps(s2);
 		
-		System.out.println("----Final Exams");
+		System.out.println("-------Final Exams------");
 		finalExam.ExamProcessSteps(s1);
 		finalExam.ExamProcessSteps(s2);
 	}

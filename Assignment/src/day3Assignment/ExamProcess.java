@@ -36,7 +36,7 @@ public abstract class ExamProcess {
 			return;
 		}
 		String hallTicket = allocateHallTicket();
-		System.out.println("Here is the HallTicket :- " +hallTicket);
+		System.out.println("HallTicket :- " +hallTicket);
 		conductExam(s);
 		int marks = evaluate(s);
 		publishResult(s, marks);
