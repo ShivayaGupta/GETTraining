@@ -22,6 +22,7 @@ public class UPI extends Payment {
 	
 	@Override
 	public void paymentReceipt() {
+
 		System.out.println("Payment Receipt (UPI)");
 	    System.out.println("UPI ID: " + upiId);
 	    System.out.println("Bank Name: " + bankName);

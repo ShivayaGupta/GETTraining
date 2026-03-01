@@ -2,24 +2,31 @@ package day2Assignment;
 
 
 	class UPI extends Payment{
-	    String upi_id;
-	    String bankName;
-	    public UPI(String upi_id,String bankName,int amt){
-	        super(amt);
-	        this.upi_id=upi_id;
-	        this.bankName=bankName;
-	    }
-	     
-	    public void pay(int amt){
-	        System.out.println("Payment of ₹" + amt + " completed");
-	    }
+		String upiId;
+		String bankName;
+		
+		
+		public UPI(int amount) {
+			super(amount);
+		}
 
-	        public void paymentReceipt(){
-	            System.out.println("----Payment receipt-----");
-	            System.out.println("Upi id"+upi_id);
-	            System.out.println("bankName:"+bankName);
-	                      System.out.println("Amount paid:"+amt);  
-	        }
-	        
+		public UPI(String upiId, String bankName, int amount) {
+			super(amount);
+			this.upiId=upiId;
+			this.bankName = bankName;
+		}
+		
+		@Override
+		public void pay() {
+			System.out.println("Completed Payment of Rs" + this.amount);
+		}
+		
+		@Override
+		public void paymentReceipt() {
+			System.out.println("Payment Receipt (UPI)");
+		    System.out.println("UPI ID: " + upiId);
+		    System.out.println("Bank Name: " + bankName);
+		    System.out.println("Amount Paid: "+ this.amount + "Rs.");
+		}	        
 	    }
 

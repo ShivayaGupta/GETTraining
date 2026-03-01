@@ -1,10 +1,20 @@
 package day2Assignment;
 
 public class Payment {
-	int amt;
-    public Payment(int amt){
-        this.amt=amt;
-    }
-
+	int amount;
+	public Payment(int amount) {
+		this.amount = amount;
+	}
+	public Payment() {
+		super();
+	}
+	
+	public void pay() {
+		
+	}
+	
+	public void paymentReceipt() {
+		
+	}
 }
 
