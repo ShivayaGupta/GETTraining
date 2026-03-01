@@ -6,7 +6,7 @@ public class PaymentMain {
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
-		int ch;
+		int i;
 		int amount;
 		
 		do {
@@ -24,7 +24,7 @@ public class PaymentMain {
 			ch = sc.nextInt();
 			
 			Payment p;
-			switch(ch) {
+			switch(i) {
 				case 1: 
 					System.out.println("Enter your mobile number: ");
 					int number = sc.nextInt();
@@ -63,7 +63,7 @@ public class PaymentMain {
 				default: System.out.println("Invalid Choice");
 			}
 			
-		}while(ch != 4);
+		}while(i != 4);
 		
 		System.out.println("Thank you for using our services");
 		sc.close();
