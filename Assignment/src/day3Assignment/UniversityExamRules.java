@@ -1,7 +1,7 @@
 package day3Assignment;
 
 public class UniversityExamRules {
-	static final String universityCode = "AKTU";
+	static final String universityCode = "RAMSWAROOP";
 	static final int minAttendance = 75;
 	
 	static int hallTicketCounter = 1000;
