@@ -1,0 +1,260 @@
+2026-03-12 00:53:01 [main] INFO  - Logging filter starting time :2026-03-12T00:53:01.544353300
+2026-03-12 00:54:27 [Catalina-utility-2] INFO  - loggingFilter Exit time2026-03-12T00:54:27.851224600
+2026-03-12 00:54:29 [Catalina-utility-2] INFO  - Logging filter starting time :2026-03-12T00:54:29.018300
+2026-03-12 00:54:57 [main] INFO  - loggingFilter Exit time2026-03-12T00:54:57.836538900
+2026-03-12 00:55:04 [main] INFO  - Logging filter starting time :2026-03-12T00:55:04.216732
+2026-03-12 09:03:12 [main] INFO  - Logging filter starting time :2026-03-12T09:03:12.938500
+2026-03-12 09:03:36 [http-nio-8081-exec-5] INFO  - Incomming request->MethodGET,URI : /AuthenticatorWebApp/AuthFilter
+2026-03-12 09:03:36 [http-nio-8081-exec-5] INFO  - response sent -> URI :Time taken : /AuthenticatorWebApp/AuthFilter ms
+2026-03-12 09:08:55 [main] INFO  - loggingFilter Exit time2026-03-12T09:08:55.897485
+2026-03-12 09:09:04 [main] INFO  - Logging filter starting time :2026-03-12T09:09:04.605119300
+2026-03-12 09:09:50 [http-nio-8081-exec-6] INFO  - doGet called at 2026-03-12T09:09:50.681908500
+2026-03-12 09:11:39 [Catalina-utility-1] INFO  - loggingFilter Exit time2026-03-12T09:11:39.802105200
+2026-03-12 09:11:41 [Catalina-utility-1] INFO  - Logging filter starting time :2026-03-12T09:11:41.175435800
+2026-03-12 09:12:05 [Catalina-utility-1] INFO  - loggingFilter Exit time2026-03-12T09:12:05.646939800
+2026-03-12 09:12:07 [Catalina-utility-1] INFO  - Logging filter starting time :2026-03-12T09:12:07.034571600
+2026-03-12 09:12:16 [main] INFO  - loggingFilter Exit time2026-03-12T09:12:16.413272300
+2026-03-12 09:12:24 [main] INFO  - Logging filter starting time :2026-03-12T09:12:24.604865900
+2026-03-12 09:12:45 [http-nio-8081-exec-9] INFO  - doGet called at 2026-03-12T09:12:45.730631200
+2026-03-12 09:18:22 [http-nio-8081-exec-7] INFO  - doGet called at 2026-03-12T09:18:22.176628400
+2026-03-12 09:21:42 [Catalina-utility-2] INFO  - loggingFilter Exit time2026-03-12T09:21:42.747431700
+2026-03-12 09:21:44 [Catalina-utility-2] INFO  - Logging filter starting time :2026-03-12T09:21:44.224950400
+2026-03-12 09:21:51 [main] INFO  - loggingFilter Exit time2026-03-12T09:21:51.911046700
+2026-03-12 09:22:00 [main] INFO  - Logging filter starting time :2026-03-12T09:22:00.019204100
+2026-03-12 09:23:40 [http-nio-8081-exec-9] INFO  - doGet called at 2026-03-12T09:23:40.666490600
+2026-03-12 09:44:18 [Catalina-utility-2] INFO  - loggingFilter Exit time2026-03-12T09:44:18.224735900
+2026-03-12 09:44:19 [Catalina-utility-2] INFO  - Logging filter starting time :2026-03-12T09:44:19.682321700
+2026-03-12 09:44:28 [main] INFO  - loggingFilter Exit time2026-03-12T09:44:28.515558900
+2026-03-12 14:06:39 [main] INFO  - Logging filter starting time :2026-03-12T14:06:39.106416900
+2026-03-12 14:06:54 [http-nio-8081-exec-3] INFO  - doGet called at 2026-03-12T14:06:54.333665200
+2026-03-12 14:33:29 [main] INFO  - loggingFilter Exit time2026-03-12T14:33:29.586273400
+2026-03-12 14:33:38 [main] INFO  - Logging filter starting time :2026-03-12T14:33:38.174235900
+2026-03-12 14:36:00 [main] INFO  - loggingFilter Exit time2026-03-12T14:36:00.997729200
+2026-03-12 14:36:08 [main] INFO  - Logging filter starting time :2026-03-12T14:36:08.773972300
+2026-03-12 14:39:04 [main] INFO  - loggingFilter Exit time2026-03-12T14:39:04.275272700
+2026-03-12 14:39:12 [main] INFO  - Logging filter starting time :2026-03-12T14:39:12.355168700
+2026-03-12 14:41:19 [main] INFO  - loggingFilter Exit time2026-03-12T14:41:19.093690400
+2026-03-12 14:41:27 [main] INFO  - Logging filter starting time :2026-03-12T14:41:27.436304500
+2026-03-12 14:59:25 [main] INFO  - loggingFilter Exit time2026-03-12T14:59:25.687466900
+2026-03-12 14:59:33 [main] INFO  - Logging filter starting time :2026-03-12T14:59:33.172908600
+2026-03-12 14:59:50 [http-nio-8081-exec-3] INFO  - doGet called at 2026-03-12T14:59:50.406484900
+2026-03-12 15:00:38 [http-nio-8081-exec-8] INFO  - doGet called at 2026-03-12T15:00:38.626500300
+2026-03-12 15:31:15 [Catalina-utility-1] INFO  - loggingFilter Exit time2026-03-12T15:31:15.123400
+2026-03-12 15:31:16 [Catalina-utility-1] INFO  - Logging filter starting time :2026-03-12T15:31:16.302529400
+2026-03-12 15:31:20 [main] INFO  - loggingFilter Exit time2026-03-12T15:31:20.929098300
+2026-03-12 15:31:26 [main] INFO  - Logging filter starting time :2026-03-12T15:31:26.837580400
+2026-03-12 15:33:04 [http-nio-8081-exec-10] INFO  - doGet called at 2026-03-12T15:33:04.510754
+2026-03-12 15:39:58 [Catalina-utility-2] INFO  - loggingFilter Exit time2026-03-12T15:39:58.371687100
+2026-03-12 15:39:59 [Catalina-utility-2] INFO  - Logging filter starting time :2026-03-12T15:39:59.466832200
+2026-03-12 15:40:34 [Catalina-utility-1] INFO  - loggingFilter Exit time2026-03-12T15:40:34.492060
+2026-03-12 15:40:35 [Catalina-utility-1] INFO  - Logging filter starting time :2026-03-12T15:40:35.532191900
+2026-03-12 15:40:40 [main] INFO  - loggingFilter Exit time2026-03-12T15:40:40.366131600
+2026-03-12 15:40:45 [main] INFO  - Logging filter starting time :2026-03-12T15:40:45.842384400
+2026-03-12 15:41:44 [Catalina-utility-1] INFO  - loggingFilter Exit time2026-03-12T15:41:44.900810300
+2026-03-12 15:41:46 [Catalina-utility-1] INFO  - Logging filter starting time :2026-03-12T15:41:45.985475600
+2026-03-12 15:41:52 [main] INFO  - loggingFilter Exit time2026-03-12T15:41:52.874822500
+2026-03-12 15:41:58 [main] INFO  - Logging filter starting time :2026-03-12T15:41:58.464943300
+2026-03-12 15:42:09 [http-nio-8081-exec-3] INFO  - doGet called at 2026-03-12T15:42:09.982487300
+2026-03-12 15:42:09 [http-nio-8081-exec-4] INFO  - Form Submitted at 2026-03-12T15:42:09.997643100 
+2026-03-12 15:42:09 [http-nio-8081-exec-4] INFO  - User Name:null
+2026-03-12 15:42:09 [http-nio-8081-exec-4] INFO  - Client IP 0:0:0:0:0:0:0:1
+2026-03-12 15:42:09 [http-nio-8081-exec-4] INFO  - User agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+2026-03-12 15:42:09 [http-nio-8081-exec-4] INFO  - Request methodGET
+2026-03-12 15:43:25 [Catalina-utility-2] INFO  - loggingFilter Exit time2026-03-12T15:43:25.516058800
+2026-03-12 15:43:26 [Catalina-utility-2] INFO  - Logging filter starting time :2026-03-12T15:43:26.647260800
+2026-03-12 15:43:44 [main] INFO  - loggingFilter Exit time2026-03-12T15:43:44.513903400
+2026-03-12 15:43:50 [main] INFO  - Logging filter starting time :2026-03-12T15:43:50.031412200
+2026-03-12 15:43:59 [http-nio-8081-exec-3] INFO  - doGet called at 2026-03-12T15:43:59.109237600
+2026-03-12 15:43:59 [http-nio-8081-exec-4] INFO  - Form Submitted at 2026-03-12T15:43:59.124697200
+2026-03-12 15:43:59 [http-nio-8081-exec-4] INFO  - User Name: null
+2026-03-12 15:43:59 [http-nio-8081-exec-4] INFO  - Client IP: 0:0:0:0:0:0:0:1
+2026-03-12 15:43:59 [http-nio-8081-exec-4] INFO  - User agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+2026-03-12 15:43:59 [http-nio-8081-exec-4] INFO  - Request method: GET
+2026-03-12 15:44:54 [http-nio-8081-exec-9] INFO  - doGet called at 2026-03-12T15:44:54.511054300
+2026-03-12 15:44:54 [http-nio-8081-exec-10] INFO  - Form Submitted at 2026-03-12T15:44:54.524562600
+2026-03-12 15:44:54 [http-nio-8081-exec-10] INFO  - User Name: null
+2026-03-12 15:44:54 [http-nio-8081-exec-10] INFO  - Client IP: 0:0:0:0:0:0:0:1
+2026-03-12 15:44:54 [http-nio-8081-exec-10] INFO  - User agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+2026-03-12 15:44:54 [http-nio-8081-exec-10] INFO  - Request method: GET
+2026-03-12 15:45:39 [http-nio-8081-exec-3] INFO  - Form Submitted at 2026-03-12T15:45:39.568567
+2026-03-12 15:45:39 [http-nio-8081-exec-3] INFO  - User Name: null
+2026-03-12 15:45:39 [http-nio-8081-exec-3] INFO  - Client IP: 0:0:0:0:0:0:0:1
+2026-03-12 15:45:39 [http-nio-8081-exec-3] INFO  - User agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+2026-03-12 15:45:39 [http-nio-8081-exec-3] INFO  - Request method: GET
+2026-03-12 15:45:39 [http-nio-8081-exec-4] INFO  - Form Submitted at 2026-03-12T15:45:39.773816400
+2026-03-12 15:45:39 [http-nio-8081-exec-4] INFO  - User Name: null
+2026-03-12 15:45:39 [http-nio-8081-exec-4] INFO  - Client IP: 0:0:0:0:0:0:0:1
+2026-03-12 15:45:39 [http-nio-8081-exec-4] INFO  - User agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+2026-03-12 15:45:39 [http-nio-8081-exec-4] INFO  - Request method: GET
+2026-03-12 15:45:40 [http-nio-8081-exec-5] INFO  - Form Submitted at 2026-03-12T15:45:40.410635300
+2026-03-12 15:45:40 [http-nio-8081-exec-5] INFO  - User Name: null
+2026-03-12 15:45:40 [http-nio-8081-exec-5] INFO  - Client IP: 0:0:0:0:0:0:0:1
+2026-03-12 15:45:40 [http-nio-8081-exec-5] INFO  - User agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+2026-03-12 15:45:40 [http-nio-8081-exec-5] INFO  - Request method: GET
+2026-03-12 15:45:40 [http-nio-8081-exec-6] INFO  - Form Submitted at 2026-03-12T15:45:40.594661
+2026-03-12 15:45:40 [http-nio-8081-exec-6] INFO  - User Name: null
+2026-03-12 15:45:40 [http-nio-8081-exec-6] INFO  - Client IP: 0:0:0:0:0:0:0:1
+2026-03-12 15:45:40 [http-nio-8081-exec-6] INFO  - User agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+2026-03-12 15:45:40 [http-nio-8081-exec-6] INFO  - Request method: GET
+2026-03-12 15:45:40 [http-nio-8081-exec-7] INFO  - Form Submitted at 2026-03-12T15:45:40.890238300
+2026-03-12 15:45:40 [http-nio-8081-exec-7] INFO  - User Name: null
+2026-03-12 15:45:40 [http-nio-8081-exec-7] INFO  - Client IP: 0:0:0:0:0:0:0:1
+2026-03-12 15:45:40 [http-nio-8081-exec-7] INFO  - User agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+2026-03-12 15:45:40 [http-nio-8081-exec-7] INFO  - Request method: GET
+2026-03-12 15:45:41 [http-nio-8081-exec-8] INFO  - Form Submitted at 2026-03-12T15:45:41.097949900
+2026-03-12 15:45:41 [http-nio-8081-exec-8] INFO  - User Name: null
+2026-03-12 15:45:41 [http-nio-8081-exec-8] INFO  - Client IP: 0:0:0:0:0:0:0:1
+2026-03-12 15:45:41 [http-nio-8081-exec-8] INFO  - User agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+2026-03-12 15:45:41 [http-nio-8081-exec-8] INFO  - Request method: GET
+2026-03-12 15:46:13 [Catalina-utility-1] INFO  - loggingFilter Exit time2026-03-12T15:46:13.511805800
+2026-03-12 15:46:14 [Catalina-utility-1] INFO  - Logging filter starting time :2026-03-12T15:46:14.692477900
+2026-03-12 15:47:12 [Catalina-utility-1] INFO  - loggingFilter Exit time2026-03-12T15:47:12.869274500
+2026-03-12 15:47:13 [Catalina-utility-1] INFO  - Logging filter starting time :2026-03-12T15:47:13.914859300
+2026-03-12 15:47:16 [main] INFO  - loggingFilter Exit time2026-03-12T15:47:16.798438500
+2026-03-12 15:47:22 [main] INFO  - Logging filter starting time :2026-03-12T15:47:22.910532100
+2026-03-12 15:47:32 [http-nio-8081-exec-3] INFO  - doGet called at 2026-03-12T15:47:32.102760500
+2026-03-12 15:47:32 [http-nio-8081-exec-4] INFO  - Logout requested at 2026-03-12T15:47:32.118675400 from IP: 0:0:0:0:0:0:0:1, UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+2026-03-12 15:47:32 [http-nio-8081-exec-4] INFO  - Invalidating session for user: null
+2026-03-12 16:29:29 [main] INFO  - loggingFilter Exit time2026-03-12T16:29:29.738021100
+2026-03-12 16:29:35 [main] INFO  - Logging filter starting time :2026-03-12T16:29:35.539417600
+2026-03-12 16:34:16 [main] INFO  - loggingFilter Exit time2026-03-12T16:34:16.530445300
+2026-03-12 16:34:22 [main] INFO  - Logging filter starting time :2026-03-12T16:34:22.158996200
+2026-03-12 16:35:59 [main] INFO  - loggingFilter Exit time2026-03-12T16:35:59.140396300
+2026-03-12 16:36:05 [main] INFO  - Logging filter starting time :2026-03-12T16:36:05.022847300
+2026-03-12 16:36:48 [main] INFO  - loggingFilter Exit time2026-03-12T16:36:48.567696200
+2026-03-12 16:36:55 [main] INFO  - Logging filter starting time :2026-03-12T16:36:55.737163400
+2026-03-12 17:07:42 [main] INFO  - loggingFilter Exit time2026-03-12T17:07:42.351105300
+2026-03-12 17:07:48 [main] INFO  - Logging filter starting time :2026-03-12T17:07:48.011588600
+2026-03-12 17:09:26 [main] INFO  - loggingFilter Exit time2026-03-12T17:09:26.177229500
+2026-03-12 17:09:31 [main] INFO  - Logging filter starting time :2026-03-12T17:09:31.914559100
+2026-03-12 20:22:23 [main] INFO  - Logging filter starting time :2026-03-12T20:22:23.763131200
+2026-03-12 20:29:19 [main] INFO  - loggingFilter Exit time2026-03-12T20:29:19.751534300
+2026-03-12 20:29:27 [main] INFO  - Logging filter starting time :2026-03-12T20:29:27.227919600
+2026-03-12 20:40:56 [main] INFO  - loggingFilter Exit time2026-03-12T20:40:56.754763500
+2026-03-12 20:41:03 [main] INFO  - Logging filter starting time :2026-03-12T20:41:03.376108
+2026-03-12 23:09:16 [main] INFO  - loggingFilter Exit time2026-03-12T23:09:16.644613400
+2026-03-12 23:09:30 [main] INFO  - Logging filter starting time :2026-03-12T23:09:30.750402800
+2026-03-13 00:04:17 [main] INFO  - loggingFilter Exit time2026-03-13T00:04:17.750913400
+2026-03-13 00:04:21 [main] INFO  - Logging filter starting time :2026-03-13T00:04:21.672651900
+2026-03-13 00:04:21 [main] INFO  - loggingFilter Exit time2026-03-13T00:04:21.739213200
+2026-03-13 00:05:20 [main] INFO  - Logging filter starting time :2026-03-13T00:05:20.802255200
+2026-03-13 00:05:20 [main] INFO  - loggingFilter Exit time2026-03-13T00:05:20.865746500
+2026-03-13 00:07:48 [main] INFO  - Logging filter starting time :2026-03-13T00:07:48.717968500
+2026-03-13 00:07:48 [main] INFO  - loggingFilter Exit time2026-03-13T00:07:48.795760300
+2026-03-15 22:04:07 [main] INFO  - Logging filter starting time :2026-03-15T22:04:07.685894
+2026-03-15 22:04:24 [http-nio-8081-exec-4] INFO  - doGet called at 2026-03-15T22:04:24.813615
+2026-03-15 22:04:24 [http-nio-8081-exec-5] INFO  - Logout requested at 2026-03-15T22:04:24.826641500 from IP: 0:0:0:0:0:0:0:1, UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0
+2026-03-15 22:04:24 [http-nio-8081-exec-5] INFO  - Invalidating session for user: null
+2026-03-15 23:04:12 [main] INFO  - loggingFilter Exit time2026-03-15T23:04:12.433237800
+2026-03-15 23:04:21 [main] INFO  - Logging filter starting time :2026-03-15T23:04:21.110130100
+2026-03-15 23:09:54 [main] INFO  - loggingFilter Exit time2026-03-15T23:09:54.316616700
+2026-03-15 23:10:01 [main] INFO  - Logging filter starting time :2026-03-15T23:10:01.828272100
+2026-03-15 23:12:54 [main] INFO  - loggingFilter Exit time2026-03-15T23:12:54.480429
+2026-03-15 23:13:02 [main] INFO  - Logging filter starting time :2026-03-15T23:13:02.165686700
+2026-03-15 23:20:02 [main] INFO  - loggingFilter Exit time2026-03-15T23:20:02.255300200
+2026-03-15 23:20:09 [main] INFO  - Logging filter starting time :2026-03-15T23:20:09.782106800
+2026-03-15 23:22:03 [main] INFO  - loggingFilter Exit time2026-03-15T23:22:03.528656500
+2026-03-15 23:22:10 [main] INFO  - Logging filter starting time :2026-03-15T23:22:10.732997200
+2026-03-16 00:21:18 [Catalina-utility-2] INFO  - loggingFilter Exit time2026-03-16T00:21:18.591917700
+2026-03-16 00:21:19 [Catalina-utility-2] INFO  - Logging filter starting time :2026-03-16T00:21:19.857560400
+2026-03-16 00:22:50 [main] INFO  - loggingFilter Exit time2026-03-16T00:22:50.511273800
+2026-03-16 00:22:58 [main] INFO  - Logging filter starting time :2026-03-16T00:22:58.474414800
+2026-03-16 00:22:59 [http-nio-8081-exec-2] INFO  - Incomming request->MethodGET,URI : /AuthenticatorWebApp/login.jsp
+2026-03-16 00:22:59 [http-nio-8081-exec-2] INFO  - response sent -> URI :Time taken : /AuthenticatorWebApp/login.jsp ms
+2026-03-16 00:23:08 [http-nio-8081-exec-3] INFO  - Incomming request->MethodGET,URI : /AuthenticatorWebApp/LoggingWithFilter
+2026-03-16 00:23:08 [http-nio-8081-exec-3] INFO  - doGet called at 2026-03-16T00:23:08.647119200
+2026-03-16 00:23:08 [http-nio-8081-exec-3] INFO  - response sent -> URI :Time taken : /AuthenticatorWebApp/LoggingWithFilter ms
+2026-03-16 00:23:08 [http-nio-8081-exec-3] INFO  - doGet called at 2026-03-16T00:23:08.647119200
+2026-03-16 00:23:48 [http-nio-8081-exec-6] INFO  - Incomming request->MethodGET,URI : /AuthenticatorWebApp/login.jsp
+2026-03-16 00:23:49 [http-nio-8081-exec-6] INFO  - response sent -> URI :Time taken : /AuthenticatorWebApp/login.jsp ms
+2026-03-16 00:24:49 [http-nio-8081-exec-9] INFO  - Incomming request->MethodGET,URI : /AuthenticatorWebApp/login.jsp
+2026-03-16 00:24:49 [http-nio-8081-exec-9] INFO  - response sent -> URI :Time taken : /AuthenticatorWebApp/login.jsp ms
+2026-03-16 00:25:00 [http-nio-8081-exec-10] INFO  - Incomming request->MethodGET,URI : /AuthenticatorWebApp/LoggingWithFilter
+2026-03-16 00:25:00 [http-nio-8081-exec-10] INFO  - doGet called at 2026-03-16T00:25:00.374375100
+2026-03-16 00:25:00 [http-nio-8081-exec-10] INFO  - response sent -> URI :Time taken : /AuthenticatorWebApp/LoggingWithFilter ms
+2026-03-16 00:25:00 [http-nio-8081-exec-10] INFO  - doGet called at 2026-03-16T00:25:00.376338100
+2026-03-16 00:28:32 [Catalina-utility-1] INFO  - loggingFilter Exit time2026-03-16T00:28:32.769634100
+2026-03-16 00:33:36 [main] INFO  - Logging filter starting time :2026-03-16T00:33:36.844729400
+2026-03-16 00:33:37 [http-nio-8081-exec-2] INFO  - Incoming request -> Method: GET, URI: /AuthenticatorWebApp/login.jsp, IP: 0:0:0:0:0:0:0:1
+2026-03-16 00:33:39 [http-nio-8081-exec-2] INFO  - Response sent -> URI: /AuthenticatorWebApp/login.jsp, Time taken: 1652 ms
+2026-03-16 00:33:48 [http-nio-8081-exec-3] INFO  - Incoming request -> Method: POST, URI: /AuthenticatorWebApp/LoggingWithFilter, IP: 0:0:0:0:0:0:0:1
+2026-03-16 00:33:48 [http-nio-8081-exec-3] INFO  - doGet called at 2026-03-16T00:33:48.056973900
+2026-03-16 00:33:48 [http-nio-8081-exec-3] INFO  - Response sent -> URI: /AuthenticatorWebApp/LoggingWithFilter, Time taken: 1 ms
+2026-03-16 00:33:48 [http-nio-8081-exec-4] INFO  - Incoming request -> Method: GET, URI: /AuthenticatorWebApp/LogoutServlet, IP: 0:0:0:0:0:0:0:1
+2026-03-16 00:33:48 [http-nio-8081-exec-4] INFO  - Logout requested at 2026-03-16T00:33:48.072770200 from IP: 0:0:0:0:0:0:0:1, UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0
+2026-03-16 00:33:48 [http-nio-8081-exec-4] INFO  - Invalidating session for user: null
+2026-03-16 00:33:48 [http-nio-8081-exec-4] INFO  - Response sent -> URI: /AuthenticatorWebApp/LogoutServlet, Time taken: 1 ms
+2026-03-16 00:33:48 [http-nio-8081-exec-5] INFO  - Incoming request -> Method: GET, URI: /AuthenticatorWebApp/HomeServlet, IP: 0:0:0:0:0:0:0:1
+2026-03-16 00:33:48 [http-nio-8081-exec-5] INFO  - Response sent -> URI: /AuthenticatorWebApp/HomeServlet, Time taken: 0 ms
+2026-03-16 00:35:51 [Catalina-utility-1] INFO  - loggingFilter Exit time2026-03-16T00:35:51.782195500
+2026-03-16 00:35:52 [Catalina-utility-1] INFO  - Logging filter starting time :2026-03-16T00:35:52.917637800
+2026-03-16 00:36:09 [main] INFO  - loggingFilter Exit time2026-03-16T00:36:09.444571300
+2026-03-16 00:36:17 [main] INFO  - Logging filter starting time :2026-03-16T00:36:17.110727500
+2026-03-16 00:36:17 [http-nio-8081-exec-2] INFO  - Incoming request -> Method: GET, URI: /AuthenticatorWebApp/login.jsp, IP: 0:0:0:0:0:0:0:1
+2026-03-16 00:36:17 [http-nio-8081-exec-2] INFO  - Response sent -> URI: /AuthenticatorWebApp/login.jsp, Time taken: 144 ms
+2026-03-16 00:36:27 [http-nio-8081-exec-3] INFO  - Incoming request -> Method: POST, URI: /AuthenticatorWebApp/LoggingWithFilter, IP: 0:0:0:0:0:0:0:1
+2026-03-16 00:36:27 [http-nio-8081-exec-3] INFO  - doGet called at 2026-03-16T00:36:27.742003
+2026-03-16 00:36:27 [http-nio-8081-exec-3] INFO  - Response sent -> URI: /AuthenticatorWebApp/LoggingWithFilter, Time taken: 0 ms
+2026-03-16 00:36:27 [http-nio-8081-exec-4] INFO  - Incoming request -> Method: GET, URI: /AuthenticatorWebApp/LogoutServlet, IP: 0:0:0:0:0:0:0:1
+2026-03-16 00:36:27 [http-nio-8081-exec-4] INFO  - Logout requested at 2026-03-16T00:36:27.753873700 from IP: 0:0:0:0:0:0:0:1, UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0
+2026-03-16 00:36:27 [http-nio-8081-exec-4] INFO  - Invalidating session for user: null
+2026-03-16 00:36:27 [http-nio-8081-exec-4] INFO  - Response sent -> URI: /AuthenticatorWebApp/LogoutServlet, Time taken: 2 ms
+2026-03-16 00:36:27 [http-nio-8081-exec-5] INFO  - Incoming request -> Method: GET, URI: /AuthenticatorWebApp/HomeServlet, IP: 0:0:0:0:0:0:0:1
+2026-03-16 00:36:27 [http-nio-8081-exec-5] INFO  - Response sent -> URI: /AuthenticatorWebApp/HomeServlet, Time taken: 0 ms
+2026-03-16 00:36:27 [http-nio-8081-exec-6] INFO  - Incoming request -> Method: GET, URI: /AuthenticatorWebApp/login.jsp, IP: 0:0:0:0:0:0:0:1
+2026-03-16 00:36:27 [http-nio-8081-exec-6] INFO  - Response sent -> URI: /AuthenticatorWebApp/login.jsp, Time taken: 4 ms
+2026-03-16 00:37:20 [Catalina-utility-1] INFO  - loggingFilter Exit time2026-03-16T00:37:20.975315500
+2026-03-16 00:37:22 [Catalina-utility-1] INFO  - Logging filter starting time :2026-03-16T00:37:22.208736900
+2026-03-16 00:37:30 [main] INFO  - loggingFilter Exit time2026-03-16T00:37:30.055418400
+2026-03-16 00:37:37 [main] INFO  - Logging filter starting time :2026-03-16T00:37:37.645728200
+2026-03-16 00:37:38 [http-nio-8081-exec-2] INFO  - Incoming request -> Method: GET, URI: /AuthenticatorWebApp/login.jsp, IP: 0:0:0:0:0:0:0:1
+2026-03-16 00:37:38 [http-nio-8081-exec-2] INFO  - Response sent -> URI: /AuthenticatorWebApp/login.jsp, Time taken: 127 ms
+2026-03-16 00:37:46 [http-nio-8081-exec-3] INFO  - Incoming request -> Method: POST, URI: /AuthenticatorWebApp/LoggingWithFilter, IP: 0:0:0:0:0:0:0:1
+2026-03-16 00:37:46 [http-nio-8081-exec-3] INFO  - doGet called at 2026-03-16T00:37:46.327570700
+2026-03-16 00:37:46 [http-nio-8081-exec-3] INFO  - Response sent -> URI: /AuthenticatorWebApp/LoggingWithFilter, Time taken: 1 ms
+2026-03-16 00:37:46 [http-nio-8081-exec-4] INFO  - Incoming request -> Method: GET, URI: /AuthenticatorWebApp/HomeServlet, IP: 0:0:0:0:0:0:0:1
+2026-03-16 00:37:46 [http-nio-8081-exec-4] INFO  - Response sent -> URI: /AuthenticatorWebApp/HomeServlet, Time taken: 0 ms
+2026-03-16 00:37:46 [http-nio-8081-exec-5] INFO  - Incoming request -> Method: GET, URI: /AuthenticatorWebApp/login.jsp, IP: 0:0:0:0:0:0:0:1
+2026-03-16 00:37:46 [http-nio-8081-exec-5] INFO  - Response sent -> URI: /AuthenticatorWebApp/login.jsp, Time taken: 6 ms
+2026-03-16 00:37:48 [http-nio-8081-exec-6] INFO  - Incoming request -> Method: POST, URI: /AuthenticatorWebApp/LoggingWithFilter, IP: 0:0:0:0:0:0:0:1
+2026-03-16 00:37:48 [http-nio-8081-exec-6] INFO  - doGet called at 2026-03-16T00:37:48.246313
+2026-03-16 00:37:48 [http-nio-8081-exec-6] INFO  - Response sent -> URI: /AuthenticatorWebApp/LoggingWithFilter, Time taken: 0 ms
+2026-03-16 00:37:48 [http-nio-8081-exec-7] INFO  - Incoming request -> Method: GET, URI: /AuthenticatorWebApp/HomeServlet, IP: 0:0:0:0:0:0:0:1
+2026-03-16 00:37:48 [http-nio-8081-exec-7] INFO  - Response sent -> URI: /AuthenticatorWebApp/HomeServlet, Time taken: 0 ms
+2026-03-16 00:37:48 [http-nio-8081-exec-8] INFO  - Incoming request -> Method: GET, URI: /AuthenticatorWebApp/login.jsp, IP: 0:0:0:0:0:0:0:1
+2026-03-16 00:37:48 [http-nio-8081-exec-8] INFO  - Response sent -> URI: /AuthenticatorWebApp/login.jsp, Time taken: 1 ms
+2026-03-16 00:37:48 [http-nio-8081-exec-9] INFO  - Incoming request -> Method: POST, URI: /AuthenticatorWebApp/LoggingWithFilter, IP: 0:0:0:0:0:0:0:1
+2026-03-16 00:37:48 [http-nio-8081-exec-9] INFO  - doGet called at 2026-03-16T00:37:48.610365200
+2026-03-16 00:37:48 [http-nio-8081-exec-9] INFO  - Response sent -> URI: /AuthenticatorWebApp/LoggingWithFilter, Time taken: 0 ms
+2026-03-16 00:37:48 [http-nio-8081-exec-10] INFO  - Incoming request -> Method: GET, URI: /AuthenticatorWebApp/HomeServlet, IP: 0:0:0:0:0:0:0:1
+2026-03-16 00:37:48 [http-nio-8081-exec-10] INFO  - Response sent -> URI: /AuthenticatorWebApp/HomeServlet, Time taken: 0 ms
+2026-03-16 00:37:48 [http-nio-8081-exec-1] INFO  - Incoming request -> Method: GET, URI: /AuthenticatorWebApp/login.jsp, IP: 0:0:0:0:0:0:0:1
+2026-03-16 00:37:48 [http-nio-8081-exec-1] INFO  - Response sent -> URI: /AuthenticatorWebApp/login.jsp, Time taken: 1 ms
+2026-03-16 00:37:48 [http-nio-8081-exec-2] INFO  - Incoming request -> Method: POST, URI: /AuthenticatorWebApp/LoggingWithFilter, IP: 0:0:0:0:0:0:0:1
+2026-03-16 00:37:48 [http-nio-8081-exec-2] INFO  - doGet called at 2026-03-16T00:37:48.974885400
+2026-03-16 00:37:48 [http-nio-8081-exec-2] INFO  - Response sent -> URI: /AuthenticatorWebApp/LoggingWithFilter, Time taken: 1 ms
+2026-03-16 00:37:48 [http-nio-8081-exec-3] INFO  - Incoming request -> Method: GET, URI: /AuthenticatorWebApp/HomeServlet, IP: 0:0:0:0:0:0:0:1
+2026-03-16 00:37:48 [http-nio-8081-exec-3] INFO  - Response sent -> URI: /AuthenticatorWebApp/HomeServlet, Time taken: 0 ms
+2026-03-16 00:37:48 [http-nio-8081-exec-4] INFO  - Incoming request -> Method: GET, URI: /AuthenticatorWebApp/login.jsp, IP: 0:0:0:0:0:0:0:1
+2026-03-16 00:37:48 [http-nio-8081-exec-4] INFO  - Response sent -> URI: /AuthenticatorWebApp/login.jsp, Time taken: 0 ms
+2026-03-16 00:37:49 [http-nio-8081-exec-5] INFO  - Incoming request -> Method: POST, URI: /AuthenticatorWebApp/LoggingWithFilter, IP: 0:0:0:0:0:0:0:1
+2026-03-16 00:37:49 [http-nio-8081-exec-5] INFO  - doGet called at 2026-03-16T00:37:49.392364300
+2026-03-16 00:37:49 [http-nio-8081-exec-5] INFO  - Response sent -> URI: /AuthenticatorWebApp/LoggingWithFilter, Time taken: 0 ms
+2026-03-16 00:37:49 [http-nio-8081-exec-6] INFO  - Incoming request -> Method: GET, URI: /AuthenticatorWebApp/HomeServlet, IP: 0:0:0:0:0:0:0:1
+2026-03-16 00:37:49 [http-nio-8081-exec-6] INFO  - Response sent -> URI: /AuthenticatorWebApp/HomeServlet, Time taken: 0 ms
+2026-03-16 00:37:49 [http-nio-8081-exec-7] INFO  - Incoming request -> Method: GET, URI: /AuthenticatorWebApp/login.jsp, IP: 0:0:0:0:0:0:0:1
+2026-03-16 00:37:49 [http-nio-8081-exec-7] INFO  - Response sent -> URI: /AuthenticatorWebApp/login.jsp, Time taken: 1 ms
+2026-03-16 00:38:18 [Catalina-utility-1] INFO  - loggingFilter Exit time2026-03-16T00:38:18.368832300
+2026-03-16 00:38:20 [Catalina-utility-1] INFO  - Logging filter starting time :2026-03-16T00:38:20.620654100
+2026-03-16 01:15:28 [Catalina-utility-1] INFO  - loggingFilter Exit time2026-03-16T01:15:28.222855500
+2026-03-16 01:19:30 [http-nio-8081-exec-3] INFO  - doGet called at 2026-03-16T01:19:30.124640200
+2026-03-16 01:21:40 [http-nio-8081-exec-3] INFO  - doGet called at 2026-03-16T01:21:40.073123900
+2026-03-16 01:22:29 [http-nio-8081-exec-8] INFO  - doGet called at 2026-03-16T01:22:29.341416700
+2026-03-16 01:24:58 [http-nio-8081-exec-3] INFO  - doGet called at 2026-03-16T01:24:58.723761900
+2026-03-16 01:25:01 [http-nio-8081-exec-6] INFO  - doGet called at 2026-03-16T01:25:01.071774500
+2026-03-16 01:25:02 [http-nio-8081-exec-9] INFO  - doGet called at 2026-03-16T01:25:02.826666900
+2026-03-16 01:25:03 [http-nio-8081-exec-2] INFO  - doGet called at 2026-03-16T01:25:03.288056
+2026-03-16 01:26:11 [http-nio-8081-exec-3] INFO  - doGet called at 2026-03-16T01:26:11.478541100
+2026-03-16 01:30:50 [http-nio-8081-exec-3] INFO  - doGet called at 2026-03-16T01:30:50.217805
+2026-03-16 01:30:55 [http-nio-8081-exec-6] INFO  - doGet called at 2026-03-16T01:30:55.538400800
+2026-03-16 01:34:50 [http-nio-8081-exec-3] INFO  - doGet called at 2026-03-16T01:34:50.088474800
