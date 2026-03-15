@@ -1,0 +1,15 @@
+2026-03-15 21:54:49 [http-nio-8081-exec-4] INFO  - Incoming request -> Method: GET, URI: /BankingApplication/index.jsp, IP: 127.0.0.1
+2026-03-15 21:54:49 [http-nio-8081-exec-4] INFO  - Response sent -> URI: /BankingApplication/index.jsp, Time Taken: 29 ms
+2026-03-15 21:54:51 [http-nio-8081-exec-7] INFO  - Incoming request -> Method: GET, URI: /BankingApplication/ViewAccount, IP: 127.0.0.1
+2026-03-15 21:54:51 [http-nio-8081-exec-7] INFO  - Response sent -> URI: /BankingApplication/ViewAccount, Time Taken: 215 ms
+2026-03-15 21:54:54 [http-nio-8081-exec-10] INFO  - Incoming request -> Method: GET, URI: /BankingApplication/AddAccountServlet, IP: 127.0.0.1
+2026-03-15 21:55:15 [http-nio-8081-exec-4] INFO  - Incoming request -> Method: POST, URI: /BankingApplication/AddAccountServlet, IP: 127.0.0.1
+2026-03-15 21:55:16 [http-nio-8081-exec-4] INFO  - Response sent -> URI: /BankingApplication/AddAccountServlet, Time Taken: 53 ms
+2026-03-15 21:55:16 [http-nio-8081-exec-7] INFO  - Incoming request -> Method: GET, URI: /BankingApplication/ViewAccount, IP: 127.0.0.1
+2026-03-15 21:55:16 [http-nio-8081-exec-7] INFO  - Response sent -> URI: /BankingApplication/ViewAccount, Time Taken: 2 ms
+2026-03-15 21:55:21 [http-nio-8081-exec-9] INFO  - Incoming request -> Method: GET, URI: /BankingApplication/AddAccountServlet, IP: 127.0.0.1
+2026-03-15 21:55:25 [http-nio-8081-exec-2] INFO  - Incoming request -> Method: GET, URI: /BankingApplication/DepositServlet, IP: 127.0.0.1
+2026-03-15 21:55:32 [http-nio-8081-exec-6] INFO  - Incoming request -> Method: POST, URI: /BankingApplication/DepositServlet, IP: 127.0.0.1
+2026-03-15 21:55:32 [http-nio-8081-exec-6] INFO  - Response sent -> URI: /BankingApplication/DepositServlet, Time Taken: 8 ms
+2026-03-15 21:55:32 [http-nio-8081-exec-9] INFO  - Incoming request -> Method: GET, URI: /BankingApplication/ViewAccount, IP: 127.0.0.1
+2026-03-15 21:55:32 [http-nio-8081-exec-9] INFO  - Response sent -> URI: /BankingApplication/ViewAccount, Time Taken: 3 ms

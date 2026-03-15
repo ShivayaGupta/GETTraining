@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app
+    version="4.0"
+    xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+    xmlns:javaee="http://xmlns.jcp.org/xml/ns/javaee"
+    xmlns:xml="http://www.w3.org/XML/1998/namespace"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd">
+  <display-name>Archetype Created Web Application</display-name>
+  <servlet>
+  <servlet-name>ViewAccount</servlet-name>
+  <servlet-class>com.coforge.Controller.ViewAccount</servlet-class>
+  </servlet>
+  <servlet-mapping>
+   <servlet-name>ViewAccount</servlet-name>
+  <url-pattern>/ViewAccount</url-pattern>
+  </servlet-mapping>
+    <servlet>
+  <servlet-name>AddAccountServlet</servlet-name>
+  <servlet-class>com.coforge.Controller.AddAccountServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+   <servlet-name>AddAccountServlet</servlet-name>
+  <url-pattern>/AddAccountServlet</url-pattern>
+  </servlet-mapping>
+      <servlet>
+  <servlet-name>DepositServlet</servlet-name>
+  <servlet-class>com.coforge.Controller.DepositServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+   <servlet-name>DepositServlet</servlet-name>
+  <url-pattern>/DepositServlet</url-pattern>
+  </servlet-mapping>
+  <servlet>
+  <servlet-name>WithdrawServlet</servlet-name>
+  <servlet-class>com.coforge.Controller.WithdrawServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+   <servlet-name>WithdrawServlet</servlet-name>
+  <url-pattern>/WithdrawServlet</url-pattern>
+  </servlet-mapping>
+   <servlet>
+  <servlet-name>Search</servlet-name>
+  <servlet-class>com.coforge.Controller.Search</servlet-class>
+  </servlet>
+  <servlet-mapping>
+   <servlet-name>Search</servlet-name>
+  <url-pattern>/Search</url-pattern>
+  </servlet-mapping>
+  <servlet>
+  <servlet-name>Delete</servlet-name>
+  <servlet-class>com.coforge.Controller.DeleteServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+   <servlet-name>Delete</servlet-name>
+  <url-pattern>/Delete</url-pattern>
+  </servlet-mapping>
+  
+</web-app>
