@@ -35,6 +35,13 @@ public class StudentDao implements StudentDaoInterface{
 		jdbcTemplate.update(query,student.getSname(),student.getCourse(),student.getAddress());
 		return "row inserted";
 	}
+	@Override
+	public boolean deleteStudent(long sid) {
+		String query="delete from student where sid=?";
+		jdbcTemplate.update(query,sid);
+		System.out.println("row deleted");
+        return true;
+	}
 	public Student getById(long sid) {
 		String query ="select * from student where sid=?";
 		RowMapper<Student> rowMapper=(rs,rows)->{

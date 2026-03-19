@@ -33,6 +33,28 @@ public class StudentController {
 	public ModelAndView addStudent() {
 		return new ModelAndView("add");
 	}
+	
+	@RequestMapping("/student/delete")
+	public ModelAndView delete(@RequestParam(name = "sid", required = false) Long sid) {
+
+	    ModelAndView mv = new ModelAndView("delete");
+	    boolean s= false;
+	    if (sid != null) {
+	        s = service.deleteStudent(sid);
+	      //  mv.addObject("student", s);
+	    }
+
+	 //   boolean deleted = service.deleteStudent(sid); // returns true/false
+
+	    if (s) {
+	        mv.addObject("msg", "Student deleted successfully!");
+	    } else {
+	        mv.addObject("msg", "Student not found!");
+	    }
+
+	    return mv;
+	}
+	
 	@RequestMapping(value="/student",method=RequestMethod.POST)
 	public String save(@ModelAttribute Student student) {
 		String s=service.save(student);
@@ -51,6 +73,7 @@ public ModelAndView getById(@RequestParam(name = "sid", required = false) Long s
     }
 
     return mv;
+
 }
 
 }

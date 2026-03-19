@@ -30,6 +30,11 @@ public class StudentServices implements StudentServiceInterface {
 		// TODO Auto-generated method stub
 		return dao.save(student);
 	}
+	@Override
+	public boolean deleteStudent(long sid) {
+		// TODO Auto-generated method stub
+		return dao.deleteStudent(sid);
+	}
 
 	@Override
 	public Student getById(long sid) {
